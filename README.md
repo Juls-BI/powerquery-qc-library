@@ -1,5 +1,14 @@
 # Power Query QC Library (Dates & Numbers)
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/status-stable-brightgreen" />
+  <img src="https://img.shields.io/badge/license-MIT-blue" />
+  <img src="https://img.shields.io/badge/version-v1.0.0-orange" />
+  <img src="https://img.shields.io/badge/powerquery-M%20Functions-ff69b4" />
+</p>
+
+
 A clean, reusable library of **Power Query (M)** functions for validating numeric and date values with full **culture support**.  
 Ideal for Power BI, Excel Power Query, and automated data quality checks.
 
