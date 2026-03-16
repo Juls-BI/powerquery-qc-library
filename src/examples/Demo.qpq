@@ -1,0 +1,12 @@
+// Demo: Number QC Status
+= NumberQualityControl("£1,234.56", "en-GB", true)
+
+// Demo: Number Parsed
+= NumberParsedOrNull("€1.234,56", "de-DE", true)
+
+// Demo: Date QC Status
+= DateQualityControl("25/12/2025", "en-GB")
+
+// Demo: Date Parsed
+= DateParsedOrNull("12/25/2025", "en-US")
+``
